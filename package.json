@@ -1,0 +1,14 @@
+{
+  "name": "ar-frame",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/positlabs/ar-frame.git",
+  "author": "jbeckwith <josh.beckwith@toolofna.com>",
+  "license": "MIT",
+  "dependencies": {
+    "aframe": "^0.7.0",
+    "jquery": "^3.2.1",
+    "three": "^0.87.1",
+    "three.ar.js": "^0.1.4"
+  }
+}
